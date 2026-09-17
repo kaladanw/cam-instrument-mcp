@@ -11,6 +11,7 @@ from collections import defaultdict
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
+from zoneinfo import ZoneInfo
 
 from mcp.server.fastmcp import FastMCP
 
@@ -20,11 +21,25 @@ mcp = FastMCP(
     port=int(os.environ.get("PORT", 8000)),
 )
 
+# Where the courses actually meet. The server's own clock is NOT the
+# authority: deployed on Render it runs in UTC, so after 8pm Eastern
+# `date.today()` would roll to tomorrow and quietly drop a day from every
+# deadline. Class is in Philadelphia; the planner counts in Philadelphia.
+COURSE_TZ = ZoneInfo("America/New_York")
+
+
+def _today() -> date:
+    """Today's date in Philadelphia, wherever this server happens to run."""
+    return datetime.now(COURSE_TZ).date()
+
+
 @mcp.tool()
 def current_time() -> str:
-    """The current date and time (UTC and local)."""
+    """The current date and time (UTC, Philadelphia, and the server's own local)."""
     now = datetime.now(timezone.utc)
-    return f"UTC: {now.isoformat()} · local: {datetime.now().isoformat()}"
+    return (f"UTC: {now.isoformat()} · Philadelphia: "
+            f"{now.astimezone(COURSE_TZ).isoformat()} · "
+            f"server local: {datetime.now().isoformat()}")
 
 @mcp.tool()
 def seconds_since(iso_timestamp: str) -> str:
@@ -104,7 +119,7 @@ def readings_due(days: int = 7, course: Optional[str] = None) -> str:
     time. Knows today's date, so 'how much reading do I have this week?' and
     'how many hours should I put in?' are answerable. Filter with course=
     'COMM 2898' or 'URBS 1153'."""
-    today = date.today()
+    today = _today()
     horizon = today + timedelta(days=days)
 
     by_date: dict[date, list[dict]] = defaultdict(list)
@@ -177,7 +192,7 @@ def _sustainable_rate(by_date: dict, today: date) -> tuple:
 def next_class_prep(course: Optional[str] = None) -> str:
     """Everything due for the very next class meeting, and the hours it needs.
     Answers 'what's the next thing I actually have to read?'"""
-    today = date.today()
+    today = _today()
     upcoming = [i for i in _load_readings()
                 if date.fromisoformat(i["due"]) >= today
                 and (not course or course.lower() in i["course"].lower())]
