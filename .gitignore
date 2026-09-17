@@ -1,3 +1,7 @@
 __pycache__/
 *.py[cod]
 .venv/
+
+# Course source documents stay local — readings.json is the shareable
+# derivative, the instructors' syllabi are theirs to distribute.
+docs/*.docx
