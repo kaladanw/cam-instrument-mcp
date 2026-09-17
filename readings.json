@@ -1,0 +1,93 @@
+[
+  { "course": "COMM 2898", "due": "2026-09-21", "title": "Carens, 'Aliens and Citizens: The Case for Open Borders', pp. 251-273", "pages": 23, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-09-21", "title": "Walzer, 'Membership', Spheres of Justice, pp. 31-63", "pages": 33, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-09-21", "title": "Doyle, 'An Immigration Philosophy Fit for Our Better Selves' (Carnegie Council)", "pages": 8, "density": "light", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-09-21", "title": "Blumgart, 'West Philadelphia', Encyclopedia of Greater Philadelphia (Maproom 2.0)", "pages": 5, "density": "light", "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-09-25", "kind": "milestone", "title": "Final West Philly Projects due 11:59PM via Canvas" },
+
+  { "course": "COMM 2898", "due": "2026-09-28", "title": "Appiah, 'Kindness to Strangers', Cosmopolitanism, pp. 155-176", "pages": 22, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-09-28", "title": "Easterly, 'Why Doesn't Aid Work?', CATO Unbound", "pages": 6, "density": "light", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-09-28", "title": "Cassidy, 'Elon Musk and Donald Trump...Destroying It', The New Yorker", "pages": 8, "density": "light", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-09-28", "title": "Kristof, 'U.S.A.I.D. Cuts Killed People', NYT", "pages": 3, "density": "light", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-09-28", "title": "Sugrue, Origins of the Urban Crisis, Intro + chs. 1-2", "pages": 90, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-09-28", "kind": "media", "title": "View: Crisis in Levittown (~30 min version)", "minutes": 30 },
+
+  { "course": "URBS 1153", "due": "2026-09-30", "title": "Vitchek, 'Confessions of a Block-Buster', Saturday Evening Post (1962)", "pages": 5, "density": "light", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-09-30", "title": "Kruse, 'The Politics of Race and Public Space', Journal of Urban History", "pages": 25, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-09-30", "title": "Kamin, 'A Professor Who Studies Housing Discrimination...', NYT", "pages": 3, "density": "light", "estimated": true },
+
+  { "course": "COMM 2898", "due": "2026-10-05", "kind": "milestone", "title": "IN-CLASS MIDTERM" },
+  { "course": "URBS 1153", "due": "2026-10-05", "title": "Sugrue, Origins of the Urban Crisis, chs. 3 & 5", "pages": 70, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-05", "title": "Cebul, 'Tearing Down Black America', Boston Review", "pages": 12, "density": "moderate", "estimated": true },
+
+  { "course": "COMM 2898", "due": "2026-10-07", "title": "Korsgaard, 'What's Wrong With Lying?'", "pages": 15, "density": "dense", "notes": true, "estimated": true },
+  { "course": "COMM 2898", "due": "2026-10-07", "title": "St. Augustine on Bok, Lying, pp. 251-255", "pages": 5, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-10-07", "title": "Machiavelli, 'The Way Princes Should Keep Their Word', The Prince, pp. 49-51", "pages": 3, "density": "dense" },
+  { "course": "COMM 2898", "due": "2026-10-07", "title": "Frankfurt, On Bullshit, pp. 1-3, 45-60", "pages": 19, "density": "dense", "notes": true },
+  { "course": "URBS 1153", "due": "2026-10-07", "kind": "media", "title": "View: The Pruitt-Igoe Myth (Penn Video Network)", "minutes": 83 },
+  { "course": "URBS 1153", "due": "2026-10-07", "title": "Jenkins, The Bonds of Inequality, skim intro + ch. 4 'Shelter'", "pages": 35, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-07", "title": "Sandoval-Strausz, Barrio America, ch. 4 'Building the Urban Crisis'", "pages": 30, "density": "moderate", "estimated": true },
+
+  { "course": "COMM 2898", "due": "2026-10-12", "title": "Walzer, 'Political Action: The Problem of Dirty Hands', pp. 62-82", "pages": 21, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-10-12", "title": "Case: 'G.W. Bush on Iraq's Nuclear Weapons', pp. 88-94", "pages": 7, "density": "moderate" },
+  { "course": "URBS 1153", "due": "2026-10-12", "title": "Cohen, A Consumer's Republic, ch. 5 'Commerce'", "pages": 60, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-12", "title": "Sugrue, Origins of the Urban Crisis, ch. 7", "pages": 30, "density": "moderate", "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-10-14", "title": "Sugrue, Origins of the Urban Crisis, chs. 8, 9 + conclusion", "pages": 85, "density": "moderate", "notes": true, "estimated": true },
+
+  { "course": "COMM 2898", "due": "2026-10-19", "title": "D.F. Thompson, 'The Private Life of Public Officials', pp. 123-147", "pages": 25, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-10-19", "title": "Tufekci, 'We Need to Take Back Our Privacy', NYT", "pages": 3, "density": "light", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-10-19", "title": "Banet-Weiser, 'Conditional: Kavanaughs, Karens...', Believability, pp. 152-182", "pages": 31, "density": "moderate", "notes": true },
+  { "course": "URBS 1153", "due": "2026-10-19", "title": "Countryman, Up South, 2026 preface + intro + ch. 5", "pages": 60, "density": "moderate", "notes": true, "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-10-21", "kind": "milestone", "title": "MIDTERM EXAM (in class)" },
+
+  { "course": "COMM 2898", "due": "2026-10-26", "title": "Case: 'The Confirmation of Justice Thomas', pp. 115-138", "pages": 24, "density": "moderate", "notes": true },
+  { "course": "COMM 2898", "due": "2026-10-26", "title": "Crenshaw, 'Whose Story Is It, Anyway?', pp. 402-440", "pages": 39, "density": "dense", "notes": true },
+  { "course": "URBS 1153", "due": "2026-10-26", "title": "Williams, 'To Challenge the Status Quo by Any Means Necessary'", "pages": 25, "density": "moderate", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-26", "title": "Phillips-Fein, 'The NYC Fiscal Crisis and the Idea of the State'", "pages": 25, "density": "moderate", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-26", "title": "Lombardo, 'He's One of Us', Blue Collar Conservatism (first half ch. 5)", "pages": 15, "density": "moderate", "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-10-28", "title": "Kahrl, The Black Tax, ch. 10", "pages": 25, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-28", "title": "'The Underclass', Time, August 1977 (read skeptically)", "pages": 10, "density": "light", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-10-28", "title": "Kohler-Hausmann, 'Welfare Crises, Penal Solutions...', Journal of Urban History", "pages": 25, "density": "moderate", "notes": true, "estimated": true },
+
+  { "course": "COMM 2898", "due": "2026-11-02", "title": "Sandel, The Tyranny of Merit, ch. 6, pp. 155-195", "pages": 41, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-11-02", "title": "Wooldridge, The Aristocracy of Talent, pp. 1-22, 249-255, 279-305, 329-349, 367-398", "pages": 109, "density": "moderate", "notes": true },
+  { "course": "COMM 2898", "due": "2026-11-02", "title": "Case: Sandel, 'Credentialism: The Last Acceptable Prejudice', pp. 81-104", "pages": 24, "density": "dense", "notes": true },
+  { "course": "URBS 1153", "due": "2026-11-02", "title": "Davis, 'Fortress Los Angeles and the Militarization of Urban Space'", "pages": 30, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-02", "title": "Geismer, Left Behind, ch. 10 'Untapped Markets'", "pages": 30, "density": "moderate", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-02", "title": "Gottlieb, 'Rat Race', Public Seminar", "pages": 6, "density": "light", "estimated": true },
+
+  { "course": "COMM 2898", "due": "2026-11-09", "title": "Mitchell, Talking Back: 'The Clinton Years' + 'Red/Blue Nation'", "pages": 50, "density": "light", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-11-09", "title": "Dworkin, 'The Bakke Decision: Did It Decide Anything?', NYRB", "pages": 10, "density": "dense", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-11-09", "title": "Kennedy, 'The Race-Neutral Delusion', LRB", "pages": 8, "density": "moderate", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-11-09", "title": "Anderson, 'Understanding Affirmative Action', pp. 135-154, 180-191", "pages": 32, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-11-09", "title": "Kahlenberg, 'Economic Affirmative Action Is Working', Chronicle", "pages": 4, "density": "light", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-11-09", "title": "SFFA v. Harvard excerpts: Roberts, Thomas, Sotomayor, Jackson", "pages": 106, "density": "dense", "notes": true },
+  { "course": "URBS 1153", "due": "2026-11-09", "title": "Hinton, From the War on Poverty to the War on Crime, ch. 5", "pages": 35, "density": "moderate", "notes": true, "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-11-11", "kind": "media", "title": "View: Let It Fall: Los Angeles, 1982-1992 (2017)", "minutes": 144 },
+  { "course": "URBS 1153", "due": "2026-11-11", "title": "Soss & Weaver, 'Police Are Our Government', Annual Review of Political Science", "pages": 25, "density": "moderate", "notes": true, "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-11-13", "kind": "milestone", "title": "Urban Renewal Project Primary Sources due 11:59pm via Canvas" },
+
+  { "course": "COMM 2898", "due": "2026-11-18", "title": "Levendusky, Our Common Bond, pp. 1-24, 151-161", "pages": 35, "density": "moderate", "notes": true },
+  { "course": "COMM 2898", "due": "2026-11-18", "title": "'Sarah McBride on Why the Left Lost on Trans Rights', Ezra Klein Show (transcript)", "pages": 20, "density": "light", "estimated": true },
+  { "course": "COMM 2898", "due": "2026-11-18", "title": "Zitner & Kusisto, 'The Trump-Era Rollback of Transgender Rights...', WSJ", "pages": 4, "density": "light", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-16", "title": "Sandoval-Strausz, Barrio America, chs. 10 & 11", "pages": 55, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-16", "title": "Carroll, Mobilizing New York, ch. 5", "pages": 30, "density": "moderate", "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-11-18", "title": "Phillips-Fein & Cyna, 'Harlem Schools in the Fiscal Crisis'", "pages": 20, "density": "moderate", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-18", "title": "Haver & Grill, 'Should the rich rule the schools...', Philadelphia Inquirer", "pages": 3, "density": "light", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-18", "title": "Blumgart & Briggs, 'Houses in the Philly suburbs...', Philadelphia Inquirer", "pages": 3, "density": "light", "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-11-30", "kind": "milestone", "title": "Urban Renewal Projects DUE by midnight via Canvas" },
+  { "course": "URBS 1153", "due": "2026-11-30", "title": "Vargas, 'Inside Philadelphia's Democratic Machine' (2026)", "pages": 15, "density": "moderate", "estimated": true },
+  { "course": "URBS 1153", "due": "2026-11-30", "title": "Schrader, Blue Power, chs. 11, 14, 23", "pages": 60, "density": "moderate", "notes": true, "estimated": true },
+  { "course": "COMM 2898", "due": "2026-11-30", "title": "Gutmann & Thompson, The Spirit of Compromise, pp. 1-24, 144-166, 189-203", "pages": 62, "density": "dense", "notes": true },
+  { "course": "COMM 2898", "due": "2026-11-30", "title": "Ananny, 'The whitespace press: Designing absences into networked news'", "pages": 18, "density": "moderate", "estimated": true },
+
+  { "course": "URBS 1153", "due": "2026-12-07", "title": "Slobodian, Crack-Up Capitalism (2023), selections", "pages": 40, "density": "moderate", "estimated": true }
+]
